@@ -17,3 +17,6 @@
 • Δημιουργήστε ένα Unit test για τη μέθοδο που κάνει αφαίρεση ακεραίων (Δείξτε με screenshot)
 
 • Μπορείτε να κάνετε test coverage σε > 50% των γραμμών κώδικα; (Δείξτε με screenshot)
+
+### Contributors 
+* Charalampos Mastrokostas (chmastrokostas@gmail.com)
